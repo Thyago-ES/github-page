@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Main from "./container/Main/index";
+
+import Main from "./pages/Main/Main";
+
 import "./styles/globalStyles.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
