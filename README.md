@@ -26,6 +26,8 @@
     />
 </div>
 
+<hr />
+
 <h2>Tecnologias utilizadas</h2>
 <ul>
     <li>
